@@ -4,7 +4,7 @@
 <br>😃 I am passionate about games, technology, movies, TV shows, and hero stuff (comics).
 <br>⚡ 3D Printing Enthusiast
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/JaoRosa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -142,19 +142,61 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
+
+# 📊 GitHub Stats
+<div align="center">
+    
 ![](https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JaoRosa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
+<div align="center">
+    
 ![](https://github-profile-trophy.vercel.app/?username=JaoRosa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ### 🔝 Top Contributed Repo
+<div align="center">
+    
 ![](https://github-contributor-stats.vercel.app/api?username=JaoRosa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=JaoRosa&icon=2&color=0)](https://visitcount.itsvg.in)
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
