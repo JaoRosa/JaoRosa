@@ -5,18 +5,18 @@
 <br>⚡ 3D Printing Enthusiast
 
 <p align="left">
-    <a href="https://github.com/rodrigolima-dev?tab=repositories&sort=stargazers">
+    <a href="https://github.com/JaoRosa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rodrigolima-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/JaoRosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         /> 
     </a>
-    <a href="https://github.com/rodrigolima-dev?tab=followers">
+    <a href="https://github.com/JaoRosa?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rodrigolima-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/JaoRosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
