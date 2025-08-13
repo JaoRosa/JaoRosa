@@ -21,6 +21,8 @@
     </a>
 </p>
 
+  <img align="center" alt="Oracle Sql Develloper" height="30" width="40" style="border-radius:50px;" src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg">
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -113,8 +115,33 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg" 
+/>
+<img 
+    align="left" 
+    alt="Oracle Sql Develloper"
+    title="Oracle_SQL_Developer"
+    height="50" 
+    width="60" 
+    style="border-radius:20px;" 
+    src=""
+    >
 <br/>
+
 <br/>
 
 
@@ -146,12 +173,10 @@
 # 📊 GitHub Stats
 <div align="center">
     
-![](https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=JaoRosa&theme=dark&hide_border=false)<br/>
-[![](https://github-readme-activity-graph.vercel.app/graph?username=JaoRosa&bg_color=000000&color=9A2F82&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
+[![](https://github-readme-activity-graph.vercel.app/graph?username=JaoRosa&bg_color=000000&color=9A2F82&line=8a2be2&point=ffffff&area=true&hide_border=true)]
+![](https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=JaoRosa&theme=dark&hide_border=false)
 </div>
 
 ## 🏆 GitHub Trophies
@@ -160,21 +185,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=JaoRosa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
-
 ### 🔝 Top Contributed Repo
 <div align="center">
     
 ![](https://github-contributor-stats.vercel.app/api?username=JaoRosa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
