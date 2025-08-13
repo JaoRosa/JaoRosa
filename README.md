@@ -146,9 +146,12 @@
 # 📊 GitHub Stats
 <div align="center">
     
-![](https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=JaoRosa&theme=dark&hide_border=false)<br/>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=JaoRosa&bg_color=000000&color=9A2F82&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 </div>
 
 ## 🏆 GitHub Trophies
@@ -157,7 +160,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=JaoRosa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=JaoRosa&bg_color=000000&color=9A2F82&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🔝 Top Contributed Repo
 <div align="center">
