@@ -157,6 +157,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=JaoRosa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=JaoRosa&bg_color=000000&color=9A2F82&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🔝 Top Contributed Repo
 <div align="center">
     
