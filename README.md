@@ -27,3 +27,11 @@
         />
     </a>
 </p>
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,git,mysql,postgres,nodejs,react,spring&theme=dark"/>
+  </a>
+</p>
