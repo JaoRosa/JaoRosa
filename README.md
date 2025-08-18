@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"/>
   </a>
 </div>
-<div align="center">
+<div align="left">
     <a href="https://github.com/JaoRosa?tab=repositories&sort=stargazers" >
         <img alt="Total de estrelas" 
              title="Total de estrelas GitHub" 
