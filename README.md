@@ -15,6 +15,21 @@
 ⚡ Entusiasta de Impressão 3D 
 -->
 
+<div align="center">
+    <a href="https://github.com/JaoRosa?tab=repositories&sort=stargazers" >
+        <img alt="Total de estrelas" 
+             title="Total de estrelas GitHub" 
+             src="https://custom-icon-badges.demolab.com/github/stars/JaoRosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        /> 
+    </a>
+    <a href="https://github.com/JaoRosa?tab=followers">
+       <img alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/JaoRosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</div>
+
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/joaovictorrosa/">
@@ -139,6 +154,21 @@
  <img width=53%  align="center" src="https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=transparent&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRosa&layout=compact&theme=transparent" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
