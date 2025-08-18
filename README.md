@@ -43,20 +43,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"/>
   </a>
 </div>
-<div align="left">
-    <a href="https://github.com/JaoRosa?tab=repositories&sort=stargazers" >
-        <img alt="Total de estrelas" 
-             title="Total de estrelas GitHub" 
-             src="https://custom-icon-badges.demolab.com/github/stars/JaoRosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        /> 
-    </a>
-    <a href="https://github.com/JaoRosa?tab=followers" style="margin-left: 10px;">
-       <img alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JaoRosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</div>
+
 
 # 🤖 Languages and Technologies
 <!-- 🤖 Linguagens e Tecnologias -->
