@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3674B5,100:578FCA:A1E3F9&height=120v&section=header"/>
 
 # 💫 About Me:
-🔭 IT Intern at the Regional Engineering Council of Rio de Janeiro (Crea-RJ)<br>💬 Information Systems Student.<br>
+🔭 IT Intern at the <a href="https://www.crea-rj.org.br/" target="_blank">Crea-RJ</a> (Regional Engineering Council of Rio de Janeiro)<br>
+💬 Information Systems Student.<br>
 🌱 Studying Front-end and Back-end.<br>
 😃 I am passionate about games, technology, movies, TV shows, and hero stuff (comics).<br>
 ⚡ 3D Printing Enthusiast<br>
@@ -151,8 +152,8 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=53%  align="center" src="https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=transparent&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRosa&layout=compact&theme=transparent" />
+ <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=transparent&show_icons=true" />
+ <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRosa&layout=compact&theme=transparent" />
 </div>
 
 
