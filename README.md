@@ -133,6 +133,12 @@
   </a>
 </div>
 
+<br>
+
+<div align="center" style="margin-bottom:200px">
+ <img width=53%  align="center" src="https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=transparent&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRosa&layout=compact&theme=transparent" />
+</div>
 
 
 
