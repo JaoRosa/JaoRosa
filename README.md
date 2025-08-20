@@ -47,7 +47,7 @@
 
 # 🤖 Languages and Technologies
 <!-- 🤖 Linguagens e Tecnologias -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
 
 ### 🚀 Main Stack :
 <div align="left">
@@ -139,8 +139,8 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=transparent&show_icons=true" />
- <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRosa&layout=compact&theme=transparent" />
+ <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=JaoRosa&theme=transparent&show_icons=true" />
+ <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRosa&layout=compact&theme=transparent" />
 </div>
 
 
