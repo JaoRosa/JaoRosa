@@ -33,7 +33,7 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://www.linkedin.com/in/joaovictorrosa/">
+  <a href="https://www.linkedin.com/in/JaoRosa/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/JaoRosa">
